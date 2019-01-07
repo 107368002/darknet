@@ -1,0 +1,7 @@
+classes= 1
+
+train  = /home/czchen/stevenwork/plate_detection_ML_hw3/train.txt
+
+names = /home/czchen/stevenwork/plate_detection_ML_hw3/darknet/data/plate.names
+
+backup = /data1000G/steven/backup/
